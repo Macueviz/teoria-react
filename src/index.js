@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.css' //Importado arriba para que se cargue antes del css y no se pisen los estilos propios
+import 'bootstrap-icons/font/bootstrap-icons.css'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
